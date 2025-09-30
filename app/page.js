@@ -2,8 +2,8 @@
 
 export default function Home() {
   return (
-    <div className="flex flex-col min-h-screen">
-
-    </div>
+    <main className="flex min-h-[70vh] items-center justify-center px-4">
+      Coming Soon
+    </main>
   );
 }
